@@ -8,7 +8,7 @@ I'm an aspiring Software Engineer. I'm passionate about sharing knowledge, docum
 
 -  He/him
 
--  I’m currently learning JavaScript, React, and Python.
+-  I’m currently learning JavaScript
 - 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing heisiancliff@gmail.com
