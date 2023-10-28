@@ -4,7 +4,7 @@ I'm passionate about sharing knowledge, documentation, web engineering, and othe
 
 **Here's a quick summary about me**:
 -  He/him
--  I’m currently learning JavaScript and Bootstrap  
+-  I’m currently learning Python and Django 
 - 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
 - 💼 Job interests: Software developer, Front End Engineer.
 - 📫 You can [view my resume](#) and contact me by emailing heisiancliff@gmail.com
